@@ -1,1 +1,3 @@
 # grocery-store
+
+# Sample project.
